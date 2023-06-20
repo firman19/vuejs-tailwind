@@ -37,6 +37,12 @@ Start the app
     npm run serve
 ```
 
+To run the API, go to this repository
+
+```bash
+    https://gitlab.com/firmanilham19/laravel-rest-api.git
+```
+
 ## Notes
 
 1. Make sure the Rest API is running on http://127.0.0.1:8000.  
