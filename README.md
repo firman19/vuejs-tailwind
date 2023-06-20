@@ -39,10 +39,10 @@ Start the app
 
 ## Notes
 
-Make sure the Rest API is running on http://127.0.0.1:8000.  
-Start the app and go to page Register (/register) to register a new user.  
-Go to page login to login the newly registered user.  
-You will be redirected to list blog (/blogs), try to create a blog (/blogs/add).  
-You can like or dislike a blog by clicking like or dislike button.  
-You can like or dislike a comment by clicking like or dislike icon.  
-You can edit and delete your own blog and comments.  
+1. Make sure the Rest API is running on http://127.0.0.1:8000.  
+2. Start the app and go to page Register (/register) to register a new user.  
+3. Go to page login to login the newly registered user.  
+4. You will be redirected to list blog (/blogs), try to create a blog (/blogs/add).  
+5. You can like or dislike a blog by clicking like or dislike button.  
+6. You can like or dislike a comment by clicking like or dislike icon.  
+7. You can edit and delete your own blog and comments.  
